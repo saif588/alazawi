@@ -7,5 +7,5 @@ client.on('ready', () => {
 
 
 
-client.login("توكن البوت الى جبناه بالاخر ")
+client.login("NjAwMzQ5ODk0NjMyNTM4MTQ0.XSyeng.cYkrN5bhED3nIlmzNlJLQ_yRn2Y")
 
